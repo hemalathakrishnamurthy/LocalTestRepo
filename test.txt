@@ -4,3 +4,5 @@ testing merging
 develop in master file
 
 branch out of developed
+
+lets test how merge works 
